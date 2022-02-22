@@ -8,15 +8,12 @@ h1 {
     color:#fff;
     font-weight: normal;
     font-size: 50px;
-    
-
 }
 
 h2 {
     color:#fff;
     font-weight: 300;
-    font-size: 42px;
-    
+    font-size: 42px;  
 }
 
 a {
@@ -24,8 +21,22 @@ a {
     font-size: 16px;
 }
 
+img{
+    display:block;
+    margin-left:27em;
+    margin-top: 35px;
+}
+
+
 p {
     font-size: 21px;
-    font-color: blue;
+    color: gray;
+}
 
+footer{
+    text-align: right;
+}
+
+#phone {
+    margin-left:55em;
 }
